@@ -156,7 +156,7 @@ Month 6 → Full data science portfolio complete
 Available for data analysis and entry-level 
 data science freelance projects.
 
-- Email: [your email]
+- Email: [chanmony@gmail.com]
 - GitHub: github.com/flexityson
 
 ---
