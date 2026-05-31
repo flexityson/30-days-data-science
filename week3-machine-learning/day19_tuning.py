@@ -25,7 +25,7 @@ param_grid={
     'max_depth': [10, 5, 10]}
 
 grid_search = GridSearchCV(RandomForestClassifier(), param_grid, cv=5)
-grid_search.fit(X_train, y_train)\
+grid_search.fit(X_train, y_train)
 
 print("Best parameters:", grid_search.best_params_)
 print("Best accuracy:", grid_search.best_score_)
