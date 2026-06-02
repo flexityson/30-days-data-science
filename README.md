@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 [Titanic Survival Predictor](https://30-days-data-science.streamlit.app/)
 
 ## Why I'm Doing This
