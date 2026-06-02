@@ -86,23 +86,24 @@ LIMIT 5;
 
 ---
 
-### Week 3 — Machine Learning (In Progress)
+### Week 3 — Machine Learning Complete
 **Folder:** `week3-machine-learning`
+**What I learned:**
+- Logistic Regression, Decision Tree, Random Forest
+- Model comparison and evaluation
+- Hyperparameter tuning with GridSearchCV
+- Built a Titanic Survival Predictor web app with Streamlit
 
-**What I'm learning:**
-- Supervised vs unsupervised learning
-- Train/test split
-- Logistic Regression
-- Model evaluation with accuracy score
-
-**Goal:** Build and evaluate my first ML model
-on real data by end of week.
+**To run the Streamlit app:**
+```bash
+streamlit run week3-machine-learning/day21_app.py
+```
 
 ---
 
 ### Week 4 — Real Project + Deployment (Coming Soon)
-
-**Plan:**
+**Folder:** 
+**What I'm learning**
 - Cambodia economic data analysis
 - Build Streamlit dashboard
 - Deploy live online
